@@ -4,8 +4,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
-
+        <meta name="description" content="Laravel application hosted on heroku">
+  <meta name="keywords" content="Laravel, heroku, guthub,HTML,CSS,XML,JavaScript">
+  <meta name="author" content="Oluwatobi Shokunbi">
+        <title>Host on Heroku</title>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
