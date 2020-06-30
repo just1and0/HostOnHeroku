@@ -1,5 +1,5 @@
 # Host on Heroku
-HostOnHeroku is the basic setup of how to host a laravel project on heroku (with an exsisting project on github). Why not check out one of the easy wasys to do host your ptoject, or you could just *fork* this repo.
+HostOnHeroku is the basic setup of how to host a laravel project on heroku (with an exsisting project on github). Why not check out one of the easiest wasys to  host your ptoject, or you could just *fork* this repo.
 
 ## Related Links
 [How To Host Your Laravel Application For Free on Heroku 📖👓 (Article)](https://medium.com/swlh/how-to-host-your-laravel-application-for-free-on-heroku-4789688d444b?source=activity---post_recommended) by [Oluwatobi Shokunbi](https://twitter.com/just1and0)
